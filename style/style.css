@@ -1,0 +1,49 @@
+.video-detail {
+  margin-top: 50px; }
+  .video-detail .details .title {
+    margin-top: 25px;
+    font-weight: 600; }
+  .video-detail .details .view-count {
+    margin-top: 10px;
+    display: inline-block; }
+  .video-detail .details .like-count-icon {
+    width: 30px;
+    height: 30px; }
+  .video-detail .details .like-count {
+    float: right;
+    margin-right: 10px; }
+  .video-detail .details .dislike-count-icon {
+    width: 22px;
+    height: 22px;
+    padding-right: 5px; }
+  .video-detail .details .dislike-count {
+    float: right;
+    margin-right: 10%;
+    margin-top: 5px; }
+
+input {
+  width: 60%;
+  position: relative;
+  left: 50px;
+  top: 25px; }
+
+.list-group {
+  margin-top: 50px;
+  font-weight: bold; }
+
+.list-group-item {
+  border-color: none; }
+  .list-group-item:hover {
+    cursor: pointer;
+    background-color: #E7E2E2; }
+
+.logo-size {
+  width: 100px;
+  height: 30px; }
+
+.logo {
+  display: inline-block;
+  position: relative;
+  top: 23px; }
+
+/*# sourceMappingURL=style.css.map */
